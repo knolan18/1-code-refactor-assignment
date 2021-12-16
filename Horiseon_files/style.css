@@ -46,6 +46,13 @@ p {
     font-size: 16px;
 }
 
+/* Footer Block */
+footer {
+    padding: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
 /* Digital Marketing Meeting image */
 .hero {
     width: 100%;
@@ -117,12 +124,6 @@ p {
 }
 
 /* Footer block */
-footer {
-    padding: 30px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
 .footer h2 {
     font-size: 20px;
 }
