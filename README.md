@@ -8,8 +8,8 @@ This assignment involved refactoring the starter code for a digital marketing co
 
 This image shows the completed assignment's appearance, and functionality:
 
-(./class-repos/homework-assignments/Horiseon_files/top-half-site.jpg)
-(./class-repos/homework-assignments/Horiseon_files/bottom-half-site.jpg)
+![first half of website](./Horiseon_files/top-half-site.jpg)
+![bottom half of website](./Horiseon_files/bottom-half-site.jpg)
 
 
 
